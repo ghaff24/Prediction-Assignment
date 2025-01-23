@@ -1,6 +1,6 @@
 title: "Predictions using the Weight Lifting Exercises Dataset"
 author: "ghaff24"
-date: "23 Jan 2024"
+date: "23 Jan 2025"
 output: 
   html_document:
     keep_md: yes
